@@ -1,0 +1,126 @@
+/*Our work CSS-Developed by MD:Shahjahan*/
+
+
+/*Typography*/
+h1 {
+	font-family: "Titillium web Bold";
+	font-size: 42px;
+}
+h2 {
+	font-family: "Titillium web Bold";
+	font-size: 40px;
+	text-transform: uppercase;
+}
+h3 {
+	font-family: "Titillium web Bold";
+	font-size: 24px;
+	text-transform: uppercase;
+}
+h4 {
+	font-family: "Titillium web SemiBold";
+	font-size: 24px;
+}
+h5 {
+	font-family: "Titillium web Regular";
+	font-size: 30px;
+}
+h6 {
+	font-family: "Titillium web Regular";
+}
+p {
+	font-family: "Titillium web Regular";
+	font-size: 18px;
+}
+#work-wrapper {
+	background: #24cc45;
+	color: white;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+#work-wrapper .col-sm-4 p {
+	padding-top: -5px;
+	background:#24cc70;
+	color: black;
+	margin-top: -10px;
+	display: block;
+	margin: auto
+	padding-left: 70px;
+	padding-right: 60px;
+}
+#work-wrapper p {
+	text-align: left;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 50px;
+	font-size: 25px;
+}
+#work-wrapper .col-sm-4 h3 {
+	padding-top: -5px;
+	background:#24cc70;
+	color: black;
+	margin-top: 0px;
+}
+#work-wrapper h3+ p {
+	padding: 0px;
+}
+#contact-wrapper {
+	background: #15cc59;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+}
+#contact-wrapper h1 {
+	margin-top: 0px;
+}
+#contact-wrapper h3 {
+	padding-top: 50px;
+	font-size: 15px;
+}
+#contact-wrapper p {
+	padding-top: 50px;
+}
+.btn {
+	padding: 20px 60px;
+	background:white;
+	color: blue;
+	font-size: 25px;
+	margin-top: 50px;
+}
+#team-wrapper {
+	background: #60cc30;
+	padding-top: 20px;
+	color: white;
+	padding-left: 40px;
+}
+#team-wrapper h4 {
+	text-align: center;
+	padding-top: 50px;
+	font-size: 15px;
+}
+#team-wrapper .col-sm-4 h3 {
+	padding-top: 10px;
+	background:#14cc30;
+	color: black;
+	margin-top: -10px;
+	display: block;
+	margin: auto
+	padding-left: 70px;
+	padding-right: 60px;
+}
+#team-wrapper .col-sm-4 p {
+	padding-top: -5px;
+	background:#14cc20;
+	color: black;
+	margin-top: -10px;
+	display: block;
+	margin: auto
+	padding-left: 70px;
+	padding-right: 60px;
+}
+img {
+	width: 100%;
+	height: auto;
+	
+
+}
